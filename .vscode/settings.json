@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"elrevue.aux": true,
+		"elrevue.synctex.gz": true
+	},
+	"ltex.language": "sk-SK",
+	"cSpell.enabled": false,
+	"latex-workshop.view.pdf.viewer": "browser",
+	"editor.renameOnType": true
+}
